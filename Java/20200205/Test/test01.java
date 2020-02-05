@@ -1,8 +1,8 @@
 /*
  * @Author: Victor Sun
  * @Github: https://github.com/victorsun0926/
- * @Date: 2020-02-05 14:23:38
- * @LastEditTime : 2020-02-05 14:57:16
+ * @CreateTime: 2020-02-05 14:23:38
+ * @LastEditTime : 2020-02-05 17:50:00
  */
 import java.io.IOException;
 import java.util.Scanner;

@@ -1,13 +1,12 @@
 /*
  * @Author: Victor Sun
  * @Github: https://github.com/victorsun0926/
- * @Date: 2020-02-05 10:01:02
- * @LastEditTime : 2020-02-05 15:23:15
+ * @CreateTime: 2020-02-05 10:01:02
+ * @LastEditTime : 2020-02-05 17:50:31
  */
-
 import java.io.IOException;
 import java.util.Scanner;
-public class test0 {
+public class test00 {
 
 	public static void main(String[] args) throws IOException {
 		Scanner sc1 = new Scanner(System.in);
