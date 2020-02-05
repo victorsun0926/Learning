@@ -2,11 +2,9 @@
  * @Author: Victor Sun
  * @Github: https://github.com/victorsun0926/
  * @CreateTime: 2020-02-05 17:17:02
- * @LastEditTime : 2020-02-05 17:51:06
+ * @LastEditTime : 2020-02-05 18:55:50
  */
 import java.io.IOException;
-import java.util.Arrays;
-
 public class hw4{
     public static void main(String[] args) throws IOException {
         String[] StrNum={"First","Second","Third","Fourth","Fifth","Sixth","Seventh","Eighth","Ninth","Tenth"};
@@ -20,7 +18,8 @@ public class hw4{
             x=y;
             y=z;
         }
-        System.out.print(Arrays.toString(calNum));
-        System.out.print(Arrays.toString(StrNum));
+        for(int n=0;n<=9;n++) {
+            System.out.println(StrNum[n]+"个值为"+calNum[n]);
+        }
     }
 }
