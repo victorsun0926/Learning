@@ -1,0 +1,8 @@
+{
+    "cSpell.words": [
+        "hdfs"
+    ],
+    "code-runner.executorMap": {
+        "java": "cd $dir && javac -d. -encoding UTF-8 $fileName && java $fileNameWithoutExt",
+    }
+}
