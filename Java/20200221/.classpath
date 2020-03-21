@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/kafka-clients-0.10.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.21.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-simple.jar"/>
+	<classpathentry kind="lib" path="lib/Consumer.java"/>
+	<classpathentry kind="lib" path="lib/ConsumerMultThread.java"/>
+	<classpathentry kind="lib" path="lib/kafka_2.10-0.10.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/KafkaProperties.java"/>
+	<classpathentry kind="lib" path="lib/metrics-core-2.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/NewConsumer.java"/>
+	<classpathentry kind="lib" path="lib/NewProducer.java"/>
+	<classpathentry kind="lib" path="lib/Producer.java"/>
+	<classpathentry kind="lib" path="lib/ProducerMultThread.java"/>
+	<classpathentry kind="lib" path="lib/scala-library-2.10.6.jar"/>
+	<classpathentry kind="lib" path="lib/SimpleConsumerDemo.java"/>
+	<classpathentry kind="lib" path="lib/SimplePartitioner.java"/>
+	<classpathentry kind="lib" path="lib/slf4j-log4j12-1.7.21.jar"/>
+	<classpathentry kind="lib" path="lib/zkclient-0.8.jar"/>
+	<classpathentry kind="lib" path="lib/zookeeper-3.5.1.jar"/>
+	<classpathentry kind="lib" path="lib/security/LoginUtil.java"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
