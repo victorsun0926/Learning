@@ -2,7 +2,7 @@
  * @Author: Victor Sun
  * @Github: https://github.com/victorsun0926/
  * @CreateTime: 2020-03-26 09:13:11
- * @LastEditTime: 2020-03-26 09:39:58
+ * @LastEditTime: 2020-03-26 10:18:10
  */
 #include <iostream>
 #include <math.h>
@@ -18,10 +18,10 @@ int main(){
     }
 
     if(i<=sqrt(x)){
-    cout<<x<<" is a prime number."<<endl;
+    cout<<x<<" is not a prime number."<<endl;
     }
     else{
-    cout<<x<<" is not a prime number."<<endl;
+    cout<<x<<" is a prime number."<<endl;
     }
     system("pause");
     return 0;
