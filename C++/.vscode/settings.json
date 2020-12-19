@@ -1,7 +1,10 @@
 {
     "files.associations": {
         "vector": "cpp",
-        "iomanip": "cpp"
+        "iomanip": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "fstream": "cpp"
     },
     "python.pythonPath": "C:\\Users\\Victor\\AppData\\Local\\Programs\\Python\\Python38\\python.exe"
 }
