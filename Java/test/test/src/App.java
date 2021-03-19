@@ -1,10 +1,10 @@
 /*
  * @Author: Victor Sun
  * @Github: https://github.com/victorsun0926/
- * @CreateTime: 2021-03-17 10:54:09
- * @LastEditTime: 2021-03-17 11:51:04
+ * @CreateTime: 2021-03-19 19:16:07
+ * @LastEditTime: 2021-03-19 19:16:36
  */
-public class test{
+public class App{
     public static void main(String[] args){
     t1 t1 = new t1();
     t1.run();
