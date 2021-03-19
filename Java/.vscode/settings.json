@@ -9,5 +9,6 @@
     // "html": "\"C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe\"",
     "java": "cd $dir && javac -d. $fileName && java app.$fileNameWithoutExt",
     // "c": "cd $dir && gcc $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt"
-    }
+    },
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
